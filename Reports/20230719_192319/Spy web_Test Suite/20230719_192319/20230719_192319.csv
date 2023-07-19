@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Spy web_Test Suite,Chrome 114.0.0.0,,,2023-07-19 19:23:25,2023-07-19 19:23:45,20.157s,PASSED
+,,,,,,,
+Test Cases/Spy web,Chrome 114.0.0.0,,,2023-07-19 19:23:26,2023-07-19 19:23:45,19.040s,PASSED
+"openBrowser(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 114.0.0.0,,,2023-07-19 19:23:27,2023-07-19 19:23:39,12.445s,PASSED
+"setText(findTestObject(""Spy web/Page_OrangeHRM/input_Username_username""), ""Admin"")",Chrome 114.0.0.0,,,2023-07-19 19:23:39,2023-07-19 19:23:41,2.017s,PASSED
+"setText(findTestObject(""Spy web/Page_OrangeHRM/input_Password_password""), ""admin123"")",Chrome 114.0.0.0,,,2023-07-19 19:23:41,2023-07-19 19:23:43,1.225s,PASSED
+"click(findTestObject(""Spy web/Page_OrangeHRM/button_Login""))",Chrome 114.0.0.0,,,2023-07-19 19:23:43,2023-07-19 19:23:45,2.480s,PASSED

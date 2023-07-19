@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Spy web_Test Suite,,,,2023-07-19 19:24:31,2023-07-19 19:24:35,3.522s,FAILED
+,,,,,,,
+Test Cases/Spy web,,,,2023-07-19 19:24:35,2023-07-19 19:24:35,0.109s,FAILED
+"openBrowser(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",,,,2023-07-19 19:24:35,2023-07-19 19:24:35,0.034s,FAILED
