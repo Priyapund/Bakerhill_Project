@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Page link_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-20 10:27:38,2023-07-20 10:30:27,2m - 48.419s,PASSED
+,,,,,,,
+Test Cases/Page link,Windows - Chrome 110.0.0.0,,,2023-07-20 10:27:39,2023-07-20 10:30:27,2m - 47.715s,PASSED
+"openBrowser(""https://support.google.com/websearch/answer/7013866?hl=en&co=GENIE.Platform%3DAndroid"")",Windows - Chrome 110.0.0.0,,,2023-07-20 10:27:40,2023-07-20 10:29:01,1m - 21.391s,PASSED
+"click(findTestObject(""Page link/Page_Manage webpages in the Google app - Android - Google Search Help/a_Learn how to find your saved items""))",Windows - Chrome 110.0.0.0,,,2023-07-20 10:29:01,2023-07-20 10:29:44,42.981s,PASSED
+"click(findTestObject(""Page link/Page_Save links, images  more - Computer - Google Search Help/a_Google""))",Windows - Chrome 110.0.0.0,,,2023-07-20 10:29:44,2023-07-20 10:30:24,40.158s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-20 10:30:24,2023-07-20 10:30:27,2.316s,PASSED

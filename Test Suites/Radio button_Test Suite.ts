@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Page link_Test Suite</name>
+   <name>Radio button_Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d0f12c4a-f686-4e5b-924f-23fe35dd1ce4</testSuiteGuid>
+   <testSuiteGuid>271f3580-1511-4ef5-99d9-6cc8d820f4b7</testSuiteGuid>
    <testCaseLink>
-      <guid>7faf63ec-3bd7-4f0f-ba62-cb36e67c238b</guid>
+      <guid>211b68ec-7ed2-4541-8a70-35cf7ab3cfc2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Page link</testCaseId>
+      <testCaseId>Test Cases/Radio button</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
