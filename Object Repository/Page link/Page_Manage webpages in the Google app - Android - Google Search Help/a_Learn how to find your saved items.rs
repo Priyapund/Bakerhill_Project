@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Learn how to find your saved items</name>
+   <tag></tag>
+   <elementGuidId>3ddc78bc-2c61-414e-a725-bfaeb3895591</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hcfe-content']/section/div/div/article/section/div/div/div/div[4]/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4cbdc295-b318-48cc-a51f-5e08f7ca7a2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/websearch/answer/7502289</value>
+      <webElementGuid>83b2c057-9630-49ef-ba2c-72c1bf4a69d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>686ef887-9e7c-4ec9-94b7-f90f4be0fc3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn how to find your saved items</value>
+      <webElementGuid>ae7bc55e-563e-4d41-9c19-99a9762ecd38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hcfe-content&quot;)/section[@class=&quot;primary-container&quot;]/div[@class=&quot;page-width-container&quot;]/div[@class=&quot;main-content&quot;]/article[@class=&quot;article page no-article-survey&quot;]/section[@class=&quot;article-container&quot;]/div[@class=&quot;inline-feedback__container&quot;]/div[@class=&quot;article-content-container&quot;]/div[@class=&quot;cc&quot;]/div[4]/ul[1]/li[4]/a[1]</value>
+      <webElementGuid>e9c090d7-ebde-4614-9314-273a0e4d8104</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hcfe-content']/section/div/div/article/section/div/div/div/div[4]/ul/li[4]/a</value>
+      <webElementGuid>985e7c32-d60a-4874-b60d-77ff1c5e1f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Learn how to find your saved items')]</value>
+      <webElementGuid>f1f828e7-bc26-49c4-b34c-9e59340e1f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save a page:'])[1]/following::a[1]</value>
+      <webElementGuid>d402167b-8c28-4287-b8ab-da9561ba96d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more ways to simplify your life with Guidebooks'])[1]/preceding::a[1]</value>
+      <webElementGuid>405cb009-5750-454e-a00b-a3ed6e3cf7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get started with Google'])[1]/preceding::a[1]</value>
+      <webElementGuid>c8510c92-35af-4ebb-8f12-f34ca3d12211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Learn how to find your saved items']/parent::*</value>
+      <webElementGuid>933aa8e1-f0d3-41cd-84db-639ab05a9db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/websearch/answer/7502289')]</value>
+      <webElementGuid>c2952cef-16ec-4047-a5aa-8fb78af36426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>694e95b4-165b-4dab-a069-41c6d84af97b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/websearch/answer/7502289' and (text() = 'Learn how to find your saved items' or . = 'Learn how to find your saved items')]</value>
+      <webElementGuid>599224e9-cd30-4863-9b51-c698b252840e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
