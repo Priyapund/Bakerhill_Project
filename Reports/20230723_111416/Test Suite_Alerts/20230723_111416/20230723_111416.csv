@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite_Alerts,Windows - Chrome 110.0.0.0,,,2023-07-23 11:14:30,2023-07-23 11:16:20,1m - 49.452s,PASSED
+,,,,,,,
+Test Cases/Alerts,Windows - Chrome 110.0.0.0,,,2023-07-23 11:14:31,2023-07-23 11:16:20,1m - 48.827s,PASSED
+"openBrowser(""https://demo.guru99.com/popup.php"")",Windows - Chrome 110.0.0.0,,,2023-07-23 11:14:32,2023-07-23 11:15:44,1m - 12.660s,PASSED
+"click(findTestObject(""alerts/Page_Guru99 Bank Home Page/a_Click Here""))",Windows - Chrome 110.0.0.0,,,2023-07-23 11:15:44,2023-07-23 11:15:50,6.025s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-23 11:15:50,2023-07-23 11:16:20,29.292s,PASSED

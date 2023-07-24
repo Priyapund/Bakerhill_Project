@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Upload file_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-23 12:58:12,2023-07-23 12:59:45,1m - 33.016s,PASSED
+,,,,,,,
+Test Cases/Upload files,Windows - Chrome 110.0.0.0,,,2023-07-23 12:58:13,2023-07-23 12:59:45,1m - 32.409s,PASSED
+"openBrowser(""https://testpages.herokuapp.com/styled/file-upload-test.html"")",Windows - Chrome 110.0.0.0,,,2023-07-23 12:58:14,2023-07-23 12:59:26,1m - 12.318s,PASSED
+waitForPageLoad(3),Windows - Chrome 110.0.0.0,,,2023-07-23 12:59:26,2023-07-23 12:59:28,1.639s,PASSED
+closeBrowser(STOP_ON_FAILURE),Windows - Chrome 110.0.0.0,,,2023-07-23 12:59:28,2023-07-23 12:59:45,17.606s,PASSED
