@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>katalon certificate_Test Suite</name>
+   <name>Map_Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>8da347c4-ab59-43e0-85f4-d1bdc103efda</testSuiteGuid>
+   <testSuiteGuid>9e99a305-8d71-48b4-bd3f-527bd9a46f4f</testSuiteGuid>
    <testCaseLink>
-      <guid>2838a51b-3dbe-420a-b29a-5948dbcffb2e</guid>
+      <guid>86fc4faf-e919-4994-9b5d-13d77e11d604</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/katalon certificate</testCaseId>
+      <testCaseId>Test Cases/google map</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

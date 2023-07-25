@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="katalon certificate_Test Suite" time="88.814" tests="1" failures="0" errors="0">
+   <testsuite name="katalon certificate_Test Suite" tests="1" failures="0" errors="0" time="88.814" skipped="0" timestamp="2023-07-25 21:07:22" hostname="lenovo - DESKTOP-FS73FSD" id="Test Suites/katalon certificate_Test Suite">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value="WINDOWS"/>
+         <property name="logFolder" value="C:\\Users\\lenovo\\git\\Bakerhill_Project\\Reports\\20230725_210709\\katalon certificate_Test Suite\\20230725_210709"/>
+         <property name="logFiles" value="C:\\Users\\lenovo\\git\\Bakerhill_Project\\Reports\\20230725_210709\\katalon certificate_Test Suite\\20230725_210709\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="lenovo - DESKTOP-FS73FSD"/>
+         <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{
+  &quot;networkConnectionEnabled&quot;: false,
+  &quot;chrome&quot;: {
+    &quot;chromedriverVersion&quot;: &quot;110.0.5481.30 (aedb656755c469651f01505a4f15e153fc606a1e-refs/branch-heads/5481@{#191})&quot;,
+    &quot;userDataDir&quot;: &quot;C:\\Program Files (x86)\\scoped_dir5272_2095176470&quot;
+  },
+  &quot;se:cdpVersion&quot;: &quot;110.0.5481.104&quot;,
+  &quot;timeouts&quot;: {
+    &quot;implicit&quot;: 0,
+    &quot;pageLoad&quot;: 300000,
+    &quot;script&quot;: 30000
+  },
+  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,
+  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,
+  &quot;strictFileInteractability&quot;: false,
+  &quot;platform&quot;: &quot;WINDOWS&quot;,
+  &quot;se:cdp&quot;: &quot;ws://10.0.2.15:4444/session/4318443c3e6acb79af835c1a0bc32286/se/cdp&quot;,
+  &quot;proxy&quot;: {
+    &quot;proxyType&quot;: &quot;DIRECT&quot;,
+    &quot;autodetect&quot;: false
+  },
+  &quot;goog:chromeOptions&quot;: {
+    &quot;debuggerAddress&quot;: &quot;localhost:49875&quot;
+  },
+  &quot;requestId&quot;: &quot;a8204322-a04e-4bf9-bda5-01b9350a9c8c&quot;,
+  &quot;webauthn:extension:credBlob&quot;: true,
+  &quot;acceptInsecureCerts&quot;: false,
+  &quot;browserVersion&quot;: &quot;110.0.0.0&quot;,
+  &quot;browserName&quot;: &quot;chrome&quot;,
+  &quot;javascriptEnabled&quot;: true,
+  &quot;katalon:option&quot;: {
+    &quot;unlimitedExecutionMinutes&quot;: true,
+    &quot;userId&quot;: 1256149,
+    &quot;organizationId&quot;: &quot;1217183&quot;,
+    &quot;class&quot;: &quot;com.katalon.testcloud.grid.common.tunnel.domain.UserOptionCapability&quot;,
+    &quot;runFromTestCloud&quot;: true,
+    &quot;usingTunnel&quot;: false
+  },
+  &quot;platformName&quot;: &quot;WINDOWS&quot;,
+  &quot;setWindowRect&quot;: true,
+  &quot;webauthn:extension:largeBlob&quot;: true,
+  &quot;webauthn:virtualAuthenticators&quot;: true
+}"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="remoteOS" value="Windows"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 110.0.0.0"/>
+         <property name="hostAddress" value="192.168.71.13"/>
+         <property name="sessionId" value="4318443c3e6acb79af835c1a0bc32286"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/katalon certificate" time="88.253" classname="Test Cases/katalon certificate" status="PASSED">
+         <system-out><![CDATA[2023-07-25 21:07:22 - [TEST_CASE][PASSED] - Test Cases/katalon certificate: Test Cases/katalon certificate
+
+2023-07-25 21:07:23 - [TEST_STEP][PASSED] - openBrowser("https://academy.katalon.com/certifications/"): Browser is opened with url: 'https://academy.katalon.com/certifications/'
+
+2023-07-25 21:07:24 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+2023-07-25 21:07:24 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+2023-07-25 21:07:24 - [MESSAGE][INFO] - User set preference: ['browserVersion', '110']
+
+2023-07-25 21:07:24 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1217183, tunnelId=, usingTunnel=false}']
+
+2023-07-25 21:07:24 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+2023-07-25 21:07:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-25 21:08:47 - [MESSAGE][PASSED] - Browser is opened with url: 'https://academy.katalon.com/certifications/'
+
+2023-07-25 21:08:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-25 21:08:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-25 21:07:22 - [TEST_SUITE][PASSED] - katalon certificate_Test Suite: Test Cases/katalon certificate]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
