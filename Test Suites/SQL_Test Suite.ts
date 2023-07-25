@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>multiple window_ Test Suite</name>
+   <name>SQL_Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,5 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>b8bbd9ff-eb93-45d9-b389-c966137b1f69</testSuiteGuid>
+   <testSuiteGuid>cdb7a4ee-c986-403a-a1b7-4c75d090b0c3</testSuiteGuid>
 </TestSuiteEntity>

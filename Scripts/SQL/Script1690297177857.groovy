@@ -17,7 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://www.youtube.com/')
+WebUI.openBrowser('https://www.w3schools.com/sql/')
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.w3schools.com/sql/')
+
+WebUI.click(findTestObject('Object Repository/SQL/Page_SQL Tutorial/a_SQL Syntax'))
 
 WebUI.closeBrowser()
 
