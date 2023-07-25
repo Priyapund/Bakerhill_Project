@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+open and close_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-25 23:28:59,2023-07-25 23:31:19,2m - 19.869s,PASSED
+,,,,,,,
+Test Cases/open and close website,Windows - Chrome 110.0.0.0,,,2023-07-25 23:28:59,2023-07-25 23:31:19,2m - 19.237s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-25 23:29:00,2023-07-25 23:30:12,1m - 11.646s,PASSED
+"navigateToUrl(""https://www.w3schools.com/sql/"")",Windows - Chrome 110.0.0.0,,,2023-07-25 23:30:12,2023-07-25 23:31:00,48.368s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-25 23:31:00,2023-07-25 23:31:19,18.358s,PASSED

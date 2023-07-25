@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>34c0d4d7-196c-47ad-9966-697309d798dd</testSuiteGuid>
    <testCaseLink>
-      <guid>7cb19cc5-1f33-46f3-bab9-64969762186e</guid>
+      <guid>862b8eca-9d65-4396-819d-e603c63f1fc1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/open and close website</testCaseId>
