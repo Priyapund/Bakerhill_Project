@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter your name_VfPpkd-RLmnJb</name>
+   <tag></tag>
+   <elementGuidId>0e215075-258b-4bb6-a4fe-c9d3969f7479</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.VfPpkd-RLmnJb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collectNameNext']/div/button/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc23267c-c919-4ac9-84ae-e30b443bf318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-RLmnJb</value>
+      <webElementGuid>b1eb96d0-1d81-4eea-a412-4c56d001b96f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collectNameNext&quot;)/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d&quot;]/div[@class=&quot;VfPpkd-RLmnJb&quot;]</value>
+      <webElementGuid>d27627b7-a646-4358-b368-e5d4548ac581</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collectNameNext']/div/button/div[3]</value>
+      <webElementGuid>8e72df57-0dee-4bc7-97c5-31a577e1f0f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div[3]</value>
+      <webElementGuid>889347c7-97f0-4f71-88fe-1911c4e59969</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

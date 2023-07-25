@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Facebook_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-25 15:06:33,2023-07-25 15:07:44,1m - 11.046s,PASSED
+,,,,,,,
+Test Cases/Facebook,Windows - Chrome 110.0.0.0,,,2023-07-25 15:06:34,2023-07-25 15:07:44,1m - 10.274s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-25 15:06:35,2023-07-25 15:07:39,1m - 4.738s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Windows - Chrome 110.0.0.0,,,2023-07-25 15:07:39,2023-07-25 15:07:42,2.392s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-25 15:07:42,2023-07-25 15:07:44,2.313s,PASSED
