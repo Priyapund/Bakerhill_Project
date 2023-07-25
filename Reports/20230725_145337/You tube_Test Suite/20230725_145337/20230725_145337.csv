@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+You tube_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-25 14:53:50,2023-07-25 14:55:21,1m - 31.016s,PASSED
+,,,,,,,
+Test Cases/You tube,Windows - Chrome 110.0.0.0,,,2023-07-25 14:53:51,2023-07-25 14:55:21,1m - 30.405s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-25 14:53:51,2023-07-25 14:54:55,1m - 3.292s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Windows - Chrome 110.0.0.0,,,2023-07-25 14:54:55,2023-07-25 14:55:06,10.923s,PASSED
+"setText(findTestObject(""Object Repository/You tube/Page_YouTube/input_Skip navigation_search_query""), ""katalon learning"")",Windows - Chrome 110.0.0.0,,,2023-07-25 14:55:06,2023-07-25 14:55:15,9.533s,PASSED
+"click(findTestObject(""Object Repository/You tube/Page_YouTube/div""))",Windows - Chrome 110.0.0.0,,,2023-07-25 14:55:15,2023-07-25 14:55:19,3.588s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-25 14:55:19,2023-07-25 14:55:21,2.257s,PASSED
