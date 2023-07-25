@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SQL_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-25 20:35:03,2023-07-25 20:50:16,15m - 13.008s,FAILED
+,,,,,,,
+Test Cases/SQL,Windows - Chrome 110.0.0.0,,,2023-07-25 20:46:52,2023-07-25 20:50:16,3m - 24.707s,FAILED
+"openBrowser(""https://www.w3schools.com/sql/"")",Windows - Chrome 110.0.0.0,,,2023-07-25 20:46:52,2023-07-25 20:48:00,1m - 8.870s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-25 20:48:00,2023-07-25 20:49:31,1m - 30.161s,PASSED
+"navigateToUrl(""https://www.w3schools.com/sql/"")",Windows - Chrome 110.0.0.0,,,2023-07-25 20:49:31,2023-07-25 20:50:10,39.397s,PASSED
+"click(findTestObject(""Object Repository/SQL/Page_SQL Tutorial/a_SQL Syntax""))",Windows - Chrome 110.0.0.0,,,2023-07-25 20:50:10,2023-07-25 20:50:16,6.231s,FAILED

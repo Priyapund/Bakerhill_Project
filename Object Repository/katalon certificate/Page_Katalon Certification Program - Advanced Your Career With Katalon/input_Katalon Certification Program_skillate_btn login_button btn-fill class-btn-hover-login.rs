@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Katalon Certification Program_skillate_btn login_button btn-fill class-btn-hover-login</name>
+   <tag></tag>
+   <elementGuidId>7325e329-b674-40a5-99cb-9fe166e8bff1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.skillate_btn.login_button.btn-fill.class-btn-hover-login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Log In']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>10b89ae5-58b9-4608-a2c2-ef2abc6975a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>skillate_btn login_button btn-fill class-btn-hover-login</value>
+      <webElementGuid>d6c6ac1e-4f74-4343-81fb-3a22419cebba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Log In</value>
+      <webElementGuid>bf8c8c2d-84d2-4cbe-a607-c02da17c62b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>7bea6799-6a9c-49a2-8f11-e9c32637c86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/div[@class=&quot;class-btn-login-modal&quot;]/input[@class=&quot;skillate_btn login_button btn-fill class-btn-hover-login&quot;]</value>
+      <webElementGuid>4e9fc427-c5d2-4db3-a854-2ac586be345b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Log In']</value>
+      <webElementGuid>aae80cb2-e67a-4426-926f-aa877e9fe503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login']/div/input</value>
+      <webElementGuid>d9d5af98-c045-431e-bf05-cea03b57133b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/input</value>
+      <webElementGuid>c595f351-e049-4930-afb3-5de91332b70f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>b1694911-67d7-4d82-9138-66f38fd1e9b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
