@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Screenshot_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-24 11:35:55,2023-07-24 11:37:31,1m - 35.887s,PASSED
+,,,,,,,
+Test Cases/Screenshot,Windows - Chrome 110.0.0.0,,,2023-07-24 11:35:56,2023-07-24 11:37:31,1m - 35.185s,PASSED
+"openBrowser(""https://demoqa.com/droppable"")",Windows - Chrome 110.0.0.0,,,2023-07-24 11:35:57,2023-07-24 11:37:16,1m - 19.917s,PASSED
+"dragAndDropToObject(findTestObject(""Drag-drop/Page_DEMOQA/source""), findTestObject(""Drag-drop/Page_DEMOQA/target""))",Windows - Chrome 110.0.0.0,,,2023-07-24 11:37:16,2023-07-24 11:37:25,8.310s,PASSED
+"takeScreenshot(""D:\Screenshot\ss1.png"")",Windows - Chrome 110.0.0.0,,,2023-07-24 11:37:25,2023-07-24 11:37:28,3.662s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-24 11:37:28,2023-07-24 11:37:31,2.531s,PASSED
