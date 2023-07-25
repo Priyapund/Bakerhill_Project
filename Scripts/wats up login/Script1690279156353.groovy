@@ -19,11 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://accounts.google.com/v3/signin/identifier?dsh=S771871841%3A1690278105099859&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AeDOFXho48atIudWTii4Fx-88tGYGE1x2JW67E6PyRNyk5VjIYmRC3wiVRoVs7O-oN1n1P-vQYkA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin')
+WebUI.navigateToUrl('https://web.whatsapp.com/')
 
-WebUI.setText(findTestObject('Object Repository/gmail/Page_Gmail/input_to continue to Gmail_identifier'), '9975195182')
+WebUI.click(findTestObject('Object Repository/watsup/Page_WhatsApp/span_Link with phone number'))
 
-WebUI.click(findTestObject('Object Repository/gmail/Page_Gmail/span_Next'))
+WebUI.setText(findTestObject('Object Repository/watsup/Page_WhatsApp/input_India_selectable-text g0rxnol2 k2bacm_a62c2f'), 
+    '99751 95182')
 
 WebUI.closeBrowser()
 

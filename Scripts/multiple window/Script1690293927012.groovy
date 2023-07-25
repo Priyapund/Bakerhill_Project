@@ -17,13 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://accounts.google.com/v3/signin/identifier?dsh=S771871841%3A1690278105099859&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AeDOFXho48atIudWTii4Fx-88tGYGE1x2JW67E6PyRNyk5VjIYmRC3wiVRoVs7O-oN1n1P-vQYkA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin')
-
-WebUI.setText(findTestObject('Object Repository/gmail/Page_Gmail/input_to continue to Gmail_identifier'), '9975195182')
-
-WebUI.click(findTestObject('Object Repository/gmail/Page_Gmail/span_Next'))
+WebUI.openBrowser('https://www.youtube.com/')
 
 WebUI.closeBrowser()
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Gmail_Test Suite</name>
+   <name>wats up_Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>fc1dab9c-04b6-4a9f-ba9f-a9ca79788a94</testSuiteGuid>
+   <testSuiteGuid>f8e0244d-e316-4969-8c57-07b13e87cb6c</testSuiteGuid>
    <testCaseLink>
-      <guid>94e24399-4a28-4acc-924d-3c8b861f23d6</guid>
+      <guid>fabf6238-26a1-40bb-ad33-9b6e9c093752</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/gmail</testCaseId>
+      <testCaseId>Test Cases/Facebook</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

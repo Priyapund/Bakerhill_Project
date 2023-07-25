@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_India_selectable-text g0rxnol2 k2bacm_a62c2f</name>
+   <tag></tag>
+   <elementGuidId>8b1a35d1-c63f-4ebe-9a1f-74a8bf7b0563</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.selectable-text.g0rxnol2.k2bacm8l.g2bpp9au.ln8gz9je.cc8mgx9x.eta5aym1.d9802myq.e4xiuwjv.thr4l2wc.cixrojiy.enbbiyaj.g33ro0j9.i5tg98hk.f9ovudaz.przvwfww.gx1rr48f</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='+91 ']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1ba860bd-8c67-44d2-b13e-35434829279a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>link-device-phone-number-input</value>
+      <webElementGuid>16490ce1-ddcf-4d2d-bf40-44f1dd5bea59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Type your phone number.</value>
+      <webElementGuid>0bed7f88-b898-420e-ac81-dccf38d6f61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6ef5bcf8-4367-4bcd-b7a5-95366ec69b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6e2e6d2f-5d9e-422d-8651-b9d4f1b4cd73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectable-text g0rxnol2 k2bacm8l g2bpp9au ln8gz9je cc8mgx9x eta5aym1 d9802myq e4xiuwjv thr4l2wc cixrojiy enbbiyaj g33ro0j9 i5tg98hk f9ovudaz przvwfww gx1rr48f</value>
+      <webElementGuid>2ae9b1f9-c858-4804-8dfc-2de760e5c8f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ed5f661e-33b4-4ba7-919a-ac7fe224f9f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>+91 </value>
+      <webElementGuid>020c5ed8-a2bd-45f5-a613-b1d22f335516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;_1Fm4m tsBgS app-wrapper-web font-fix os-win&quot;]/div[@class=&quot;landing-wrapper&quot;]/div[@class=&quot;landing-window&quot;]/div[@class=&quot;landing-main&quot;]/div[@class=&quot;tvf2evcx m0h2a7mj lb5m6g5c j7l1k36l ktfrpxia nu7pwgvd p357zi0d dnb887gk gjuq5ydh i2cterl7 fhf7t426 f8m0rgwh gndfcl4n light&quot;]/div[@class=&quot;tvf2evcx m0h2a7mj lb5m6g5c j7l1k36l ktfrpxia nu7pwgvd p357zi0d dnb887gk gjuq5ydh i2cterl7 fhf7t426 f8m0rgwh elxb2u3l&quot;]/div[@class=&quot;tvf2evcx m0h2a7mj lb5m6g5c j7l1k36l ktfrpxia nu7pwgvd dnb887gk gjuq5ydh i2cterl7 r2u2pyhj&quot;]/div[@class=&quot;g0rxnol2 k2bacm8l n3nyt3io&quot;]/div[@class=&quot;tvf2evcx m0h2a7mj lb5m6g5c j7l1k36l ktfrpxia nu7pwgvd p357zi0d dnb887gk gjuq5ydh i2cterl7 fhf7t426 sap93d0t r15c9g6i g0rxnol2 e8jx7scp fcet0162 sta02ykp itegkywt n49njydh jdwybkuq f6cvynhn ggk2mtcd c4hi5cu5 dorenqkw pidw8noc bbr44loe ooj5yc5b m8i16etx cw0ivh8j&quot;]/div[@class=&quot;tvf2evcx m0h2a7mj lb5m6g5c j7l1k36l ktfrpxia nu7pwgvd dnb887gk gjuq5ydh i2cterl7 g0rxnol2&quot;]/form[1]/input[@class=&quot;selectable-text g0rxnol2 k2bacm8l g2bpp9au ln8gz9je cc8mgx9x eta5aym1 d9802myq e4xiuwjv thr4l2wc cixrojiy enbbiyaj g33ro0j9 i5tg98hk f9ovudaz przvwfww gx1rr48f&quot;]</value>
+      <webElementGuid>821cce0e-bf6d-455b-a5fc-2cdb209905bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='+91 ']</value>
+      <webElementGuid>ef765f8b-9f9c-430f-86b5-e4822aa3fc75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/div/div/div[3]/div[2]/div/div/div/form/input</value>
+      <webElementGuid>0c430385-9309-43f1-a7de-41ab7d814d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>6da749a3-3ce4-4268-b298-d158ce695b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>c0b2722d-c097-431b-b1f2-394a9adfdce2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

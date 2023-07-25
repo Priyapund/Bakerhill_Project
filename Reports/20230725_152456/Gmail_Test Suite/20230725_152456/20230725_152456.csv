@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Gmail_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-25 15:25:08,2023-07-25 15:26:40,1m - 32.967s,PASSED
+,,,,,,,
+Test Cases/gmail,Windows - Chrome 110.0.0.0,,,2023-07-25 15:25:08,2023-07-25 15:26:40,1m - 32.393s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-25 15:25:09,2023-07-25 15:26:25,1m - 15.795s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?dsh=S771871841%3A1690278105099859&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AeDOFXho48atIudWTii4Fx-88tGYGE1x2JW67E6PyRNyk5VjIYmRC3wiVRoVs7O-oN1n1P-vQYkA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin"")",Windows - Chrome 110.0.0.0,,,2023-07-25 15:26:25,2023-07-25 15:26:28,3.369s,PASSED
+"setText(findTestObject(""Object Repository/gmail/Page_Gmail/input_to continue to Gmail_identifier""), ""9975195182"")",Windows - Chrome 110.0.0.0,,,2023-07-25 15:26:28,2023-07-25 15:26:35,6.957s,PASSED
+"click(findTestObject(""Object Repository/gmail/Page_Gmail/span_Next""))",Windows - Chrome 110.0.0.0,,,2023-07-25 15:26:35,2023-07-25 15:26:39,3.481s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-25 15:26:39,2023-07-25 15:26:40,1.840s,PASSED
