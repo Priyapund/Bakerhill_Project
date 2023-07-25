@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+open and close_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-25 23:18:09,2023-07-25 23:27:27,9m - 18.020s,FAILED
+,,,,,,,
+Test Cases/open and close website,Windows - Chrome 110.0.0.0,,,2023-07-25 23:25:04,2023-07-25 23:27:27,2m - 23.491s,FAILED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-25 23:25:04,2023-07-25 23:26:33,1m - 29.649s,PASSED
+"navigateToUrl(""https://www.w3schools.com/sql/"")",Windows - Chrome 110.0.0.0,,,2023-07-25 23:26:33,2023-07-25 23:27:16,42.506s,PASSED
+"click(findTestObject(""Object Repository/open and close/Page_SQL Tutorial/a_SQL Intro""))",Windows - Chrome 110.0.0.0,,,2023-07-25 23:27:16,2023-07-25 23:27:27,11.316s,FAILED

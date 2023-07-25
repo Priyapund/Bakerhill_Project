@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Map_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-25 23:18:18,2023-07-25 23:20:14,1m - 56.069s,PASSED
+,,,,,,,
+Test Cases/google map,Windows - Chrome 110.0.0.0,,,2023-07-25 23:18:18,2023-07-25 23:20:14,1m - 55.467s,PASSED
+"openBrowser(""https://www.google.com/maps"")",Windows - Chrome 110.0.0.0,,,2023-07-25 23:18:19,2023-07-25 23:19:41,1m - 22.210s,PASSED
+delay(3),Windows - Chrome 110.0.0.0,,,2023-07-25 23:19:41,2023-07-25 23:19:44,3.128s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-25 23:19:44,2023-07-25 23:20:14,29.344s,PASSED

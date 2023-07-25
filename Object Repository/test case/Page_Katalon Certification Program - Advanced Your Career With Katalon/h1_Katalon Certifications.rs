@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Katalon Certifications</name>
+   <tag></tag>
+   <elementGuidId>32a03908-f404-47f5-8933-eab43d6fb43d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/main/section/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3419e1ad-2402-4b86-8e34-1c11ae6ed349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Certifications</value>
+      <webElementGuid>9d79a021-8c7a-46c3-baa2-eb6e580576b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/main[@class=&quot;cert qubely-section&quot;]/section[@class=&quot;cert-banner qubely-container&quot;]/div[@class=&quot;cert-left&quot;]/div[@class=&quot;cert-intro&quot;]/h1[1]</value>
+      <webElementGuid>0482c387-1821-4468-8c95-1192fcb54b3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/main/section/div/div/h1</value>
+      <webElementGuid>4f0d17aa-cf3d-4e59-baef-9c09bd9d96a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community Support'])[3]/following::h1[1]</value>
+      <webElementGuid>4f103956-683a-4abe-92fc-7d9dc062d7d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in to join'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0be8c2a7-55ea-413c-b7bb-290a100958d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn job-ready automation skills with Katalon'])[1]/preceding::h1[1]</value>
+      <webElementGuid>bb7fbeca-5e84-4d99-a287-0734d2eb24e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon Certifications']/parent::*</value>
+      <webElementGuid>4af44a56-679f-496d-958d-9ff704d0a1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>22f66d13-1554-42a0-88a1-5eccbc3fcda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Katalon Certifications' or . = 'Katalon Certifications')]</value>
+      <webElementGuid>a2e9d6a0-7108-444b-83bb-0ee71d8b38e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

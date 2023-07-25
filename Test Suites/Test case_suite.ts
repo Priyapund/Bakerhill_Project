@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>open and close_Test Suite</name>
+   <name>Test case_suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>34c0d4d7-196c-47ad-9966-697309d798dd</testSuiteGuid>
+   <testSuiteGuid>b4d2a16d-01de-4215-af85-abc4976399a5</testSuiteGuid>
    <testCaseLink>
-      <guid>7cb19cc5-1f33-46f3-bab9-64969762186e</guid>
+      <guid>67614606-5567-4e86-ba39-bca3c548d7fe</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/open and close website</testCaseId>
+      <testCaseId>Test Cases/Test Case</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

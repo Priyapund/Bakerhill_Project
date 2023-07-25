@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://academy.katalon.com/certifications/')
 
-WebUI.navigateToUrl('https://www.w3schools.com/sql/')
+WebUI.click(findTestObject('test case/Page_Katalon Certification Program - Advanced Your Career With Katalon/h1_Katalon Certifications'))
 
 WebUI.closeBrowser()
 
