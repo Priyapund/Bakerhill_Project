@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+close_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-25 23:40:52,2023-07-25 23:43:45,2m - 52.703s,PASSED
+,,,,,,,
+Test Cases/close,Windows - Chrome 110.0.0.0,,,2023-07-25 23:40:53,2023-07-25 23:43:45,2m - 51.946s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-25 23:40:54,2023-07-25 23:42:17,1m - 22.831s,PASSED
+"navigateToUrl(""https://www.w3schools.com/sql/"")",Windows - Chrome 110.0.0.0,,,2023-07-25 23:42:17,2023-07-25 23:43:11,54.188s,PASSED
+"click(findTestObject(""Object Repository/Page_SQL Tutorial/a_PYTHON""))",Windows - Chrome 110.0.0.0,,,2023-07-25 23:43:11,2023-07-25 23:43:16,5.409s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-25 23:43:16,2023-07-25 23:43:45,28.597s,PASSED
