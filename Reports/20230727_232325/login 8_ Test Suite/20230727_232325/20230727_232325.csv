@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+login 8_ Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-27 23:23:38,2023-07-27 23:25:40,2m - 1.641s,PASSED
+,,,,,,,
+Test Cases/login 8,Windows - Chrome 110.0.0.0,,,2023-07-27 23:23:39,2023-07-27 23:25:40,2m - 0.863s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-27 23:23:40,2023-07-27 23:24:56,1m - 15.752s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Windows - Chrome 110.0.0.0,,,2023-07-27 23:24:56,2023-07-27 23:25:03,7.072s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-27 23:25:03,2023-07-27 23:25:40,36.621s,PASSED
