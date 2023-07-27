@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="login4_Test Suite" time="353.857" tests="3" failures="0" errors="0">
+   <testsuite name="login4_Test Suite" tests="3" failures="0" errors="0" time="353.857" skipped="0" timestamp="2023-07-27 22:54:53" hostname="lenovo - DESKTOP-FS73FSD" id="Test Suites/login4_Test Suite">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value="WINDOWS"/>
+         <property name="logFolder" value="C:\\Users\\lenovo\\git\\Bakerhill_Project\\Reports\\20230727_225439\\login4_Test Suite\\20230727_225439"/>
+         <property name="logFiles" value="C:\\Users\\lenovo\\git\\Bakerhill_Project\\Reports\\20230727_225439\\login4_Test Suite\\20230727_225439\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="lenovo - DESKTOP-FS73FSD"/>
+         <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{
+  &quot;networkConnectionEnabled&quot;: false,
+  &quot;chrome&quot;: {
+    &quot;chromedriverVersion&quot;: &quot;110.0.5481.30 (aedb656755c469651f01505a4f15e153fc606a1e-refs/branch-heads/5481@{#191})&quot;,
+    &quot;userDataDir&quot;: &quot;C:\\Program Files (x86)\\scoped_dir3052_532429765&quot;
+  },
+  &quot;se:cdpVersion&quot;: &quot;110.0.5481.104&quot;,
+  &quot;timeouts&quot;: {
+    &quot;implicit&quot;: 0,
+    &quot;pageLoad&quot;: 300000,
+    &quot;script&quot;: 30000
+  },
+  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,
+  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,
+  &quot;strictFileInteractability&quot;: false,
+  &quot;platform&quot;: &quot;WINDOWS&quot;,
+  &quot;se:cdp&quot;: &quot;ws://10.0.2.15:4444/session/f6422388531c401e637627d9a2286221/se/cdp&quot;,
+  &quot;proxy&quot;: {
+    &quot;proxyType&quot;: &quot;DIRECT&quot;,
+    &quot;autodetect&quot;: false
+  },
+  &quot;goog:chromeOptions&quot;: {
+    &quot;debuggerAddress&quot;: &quot;localhost:49882&quot;
+  },
+  &quot;requestId&quot;: &quot;6ef249f6-f21b-45ae-a932-ccc887a3b610&quot;,
+  &quot;webauthn:extension:credBlob&quot;: true,
+  &quot;acceptInsecureCerts&quot;: false,
+  &quot;browserVersion&quot;: &quot;110.0.0.0&quot;,
+  &quot;browserName&quot;: &quot;chrome&quot;,
+  &quot;javascriptEnabled&quot;: true,
+  &quot;katalon:option&quot;: {
+    &quot;unlimitedExecutionMinutes&quot;: true,
+    &quot;userId&quot;: 1256149,
+    &quot;organizationId&quot;: &quot;1217183&quot;,
+    &quot;class&quot;: &quot;com.katalon.testcloud.grid.common.tunnel.domain.UserOptionCapability&quot;,
+    &quot;runFromTestCloud&quot;: true,
+    &quot;usingTunnel&quot;: false
+  },
+  &quot;platformName&quot;: &quot;WINDOWS&quot;,
+  &quot;setWindowRect&quot;: true,
+  &quot;webauthn:extension:largeBlob&quot;: true,
+  &quot;webauthn:virtualAuthenticators&quot;: true
+}"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="remoteOS" value="Windows"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 110.0.0.0"/>
+         <property name="hostAddress" value="192.168.71.13"/>
+         <property name="sessionId" value="f6422388531c401e637627d9a2286221"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/login 4" time="138.682" classname="Test Cases/login 4" status="PASSED">
+         <system-out><![CDATA[2023-07-27 22:54:53 - [TEST_CASE][PASSED] - Test Cases/login 4: Test Cases/login 4
+
+2023-07-27 22:54:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-27 22:54:55 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+2023-07-27 22:54:55 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+2023-07-27 22:54:55 - [MESSAGE][INFO] - User set preference: ['browserVersion', '110']
+
+2023-07-27 22:54:55 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1217183, tunnelId=, usingTunnel=false}']
+
+2023-07-27 22:54:55 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+2023-07-27 22:54:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-27 22:56:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-27 22:56:26 - [TEST_STEP][PASSED] - navigateToUrl("https://www.youtube.com/"): Navigate to 'https://www.youtube.com/' successfully
+
+2023-07-27 22:56:31 - [MESSAGE][PASSED] - Navigate to 'https://www.youtube.com/' successfully
+
+2023-07-27 22:56:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-27 22:57:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login 5" time="113.876" classname="Test Cases/login 5" status="PASSED">
+         <system-out><![CDATA[2023-07-27 22:57:12 - [TEST_CASE][PASSED] - Test Cases/login 5: Test Cases/login 5
+
+2023-07-27 22:57:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-27 22:57:13 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+2023-07-27 22:57:13 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+2023-07-27 22:57:13 - [MESSAGE][INFO] - User set preference: ['browserVersion', '110']
+
+2023-07-27 22:57:13 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1217183, tunnelId=, usingTunnel=false}']
+
+2023-07-27 22:57:13 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+2023-07-27 22:57:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-27 22:58:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-27 22:58:24 - [TEST_STEP][PASSED] - navigateToUrl("https://www.youtube.com/"): Navigate to 'https://www.youtube.com/' successfully
+
+2023-07-27 22:58:37 - [MESSAGE][PASSED] - Navigate to 'https://www.youtube.com/' successfully
+
+2023-07-27 22:58:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-27 22:59:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login 6" time="100.586" classname="Test Cases/login 6" status="PASSED">
+         <system-out><![CDATA[2023-07-27 22:59:06 - [TEST_CASE][PASSED] - Test Cases/login 6: Test Cases/login 6
+
+2023-07-27 22:59:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-27 22:59:07 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+2023-07-27 22:59:07 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+2023-07-27 22:59:07 - [MESSAGE][INFO] - User set preference: ['browserVersion', '110']
+
+2023-07-27 22:59:07 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1217183, tunnelId=, usingTunnel=false}']
+
+2023-07-27 22:59:07 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+2023-07-27 22:59:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-27 23:00:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-27 23:00:19 - [TEST_STEP][PASSED] - navigateToUrl("https://www.youtube.com/"): Navigate to 'https://www.youtube.com/' successfully
+
+2023-07-27 23:00:23 - [MESSAGE][PASSED] - Navigate to 'https://www.youtube.com/' successfully
+
+2023-07-27 23:00:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-27 23:00:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-27 22:54:53 - [TEST_SUITE][PASSED] - login4_Test Suite: Test Cases/login 6]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
