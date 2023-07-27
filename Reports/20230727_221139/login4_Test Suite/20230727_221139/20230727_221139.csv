@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+login4_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-27 22:11:55,2023-07-27 22:16:21,4m - 26.054s,PASSED
+,,,,,,,
+Test Cases/login 4,Windows - Chrome 110.0.0.0,,,2023-07-27 22:11:55,2023-07-27 22:13:59,2m - 3.906s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-27 22:11:56,2023-07-27 22:13:25,1m - 28.698s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Windows - Chrome 110.0.0.0,,,2023-07-27 22:13:25,2023-07-27 22:13:31,5.856s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-27 22:13:31,2023-07-27 22:13:59,28.527s,PASSED
+,,,,,,,
+Test Cases/login 5,Windows - Chrome 110.0.0.0,,,2023-07-27 22:13:59,2023-07-27 22:16:21,2m - 21.499s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-27 22:14:00,2023-07-27 22:15:18,1m - 17.807s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Windows - Chrome 110.0.0.0,,,2023-07-27 22:15:18,2023-07-27 22:15:25,6.750s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-27 22:15:25,2023-07-27 22:16:21,56.040s,PASSED
