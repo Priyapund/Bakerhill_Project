@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+login4_Test Suite,Windows - Chrome 110.0.0.0,,,2023-07-27 22:02:52,2023-07-27 22:04:44,1m - 52.603s,PASSED
+,,,,,,,
+Test Cases/login 4,Windows - Chrome 110.0.0.0,,,2023-07-27 22:02:52,2023-07-27 22:04:44,1m - 51.918s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-07-27 22:02:53,2023-07-27 22:04:10,1m - 16.376s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Windows - Chrome 110.0.0.0,,,2023-07-27 22:04:10,2023-07-27 22:04:15,5.070s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-07-27 22:04:15,2023-07-27 22:04:44,29.588s,PASSED
